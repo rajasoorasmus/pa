@@ -51,3 +51,10 @@ Ja kui infot tahad Githubist PhpStormi tuua, siis kasutad:
 ```
 PhpStorm -> VCS -> Git -> Pull
 ```
+## Kiirviited
+```
+Ctrl + K = Commit
+```
+```
+Ctrl + Shift + K = Push
+```
