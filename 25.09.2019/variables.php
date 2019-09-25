@@ -22,3 +22,7 @@ echo "KhkEmail: " . $KhkEmail. "<br>";
 echo "Vanus: " . $Vanus. "<br>";
 echo "Pikkus: " . $Pikkus."m". "<br>";
 echo "Kaal: " . $Kaal."kg". "<br>";
+
+// Dünaamiline muutujate defineerimie
+$kehamassiIndeks = $Kaal / ($Pikkus * $Pikkus);
+echo "Kehamassiindeks on". $kehamassiIndeks. "<br>";
