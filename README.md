@@ -51,7 +51,7 @@ Ja kui infot tahad Githubist PhpStormi tuua, siis kasutad:
 ```
 PhpStorm -> VCS -> Git -> Pull
 ```
-## Kiirviited
+#### Kiirviited
 ```
 Ctrl + K = Commit
 ```
